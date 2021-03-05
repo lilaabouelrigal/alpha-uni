@@ -1,0 +1,2834 @@
+[
+   {
+      "name": "BU 3502Principles of Accounting I",
+      "id": 58133,
+      "major": "Accounting",
+      "teacher": "Viva Borgars"
+   },
+   {
+      "name": "BU 3511Principles of Accounting II",
+      "id": 66922,
+      "major": "Accounting",
+      "teacher": "Chloette Laity"
+   },
+   {
+      "name": "BU 4500 Intermediate Accounting I",
+      "id": 42123,
+      "major": "Accounting",
+      "teacher": "Florencia Charlick"
+   },
+   {
+      "name": "BU 4510   Intermediate Accounting II",
+      "id": 46464,
+      "major": "Accounting",
+      "teacher": "Simeon Woodburne"
+   },
+   {
+      "name": "BU 4570 Federal Income Tax I",
+      "id": 37490,
+      "major": "Accounting",
+      "teacher": "Moore Oger"
+   },
+   {
+      "name": "BU 4590 Cost Accounting",
+      "id": 90800,
+      "major": "Accounting",
+      "teacher": "Benyamin Sketh"
+   },
+   {
+      "name": "BU 5505 Essentials-Gov't&Non-ProfAcctg",
+      "id": 76916,
+      "major": "Accounting",
+      "teacher": "Belinda Tuttiett"
+   },
+   {
+      "name": "BU 5525 International Accounting",
+      "id": 60495,
+      "major": "Accounting",
+      "teacher": "Tadio Abreheart"
+   },
+   {
+      "name": "BU 5540 Advanced Accounting",
+      "id": 72197,
+      "major": "Accounting",
+      "teacher": "Yetty Deacock"
+   },
+   {
+      "name": "BU 5550 Auditing",
+      "id": 61022,
+      "major": "Accounting",
+      "teacher": "Thelma Crabb"
+   },
+   {
+      "name": "BU 5520 Financial Accounting Research",
+      "id": 17048,
+      "major": "Accounting",
+      "teacher": "Luis Jouannisson"
+   },
+   {
+      "name": "BU 3600  Principles of Business Law",
+      "id": 44336,
+      "major": "Accounting",
+      "teacher": "Bea Goodings"
+   },
+   {
+      "name": "BU 3605 Intermediate Business Law",
+      "id": 46973,
+      "major": "Accounting",
+      "teacher": "Grantley Boraston"
+   },
+   {
+      "name": "BU 3610 Advanced Business Law",
+      "id": 9568,
+      "major": "Accounting",
+      "teacher": "Sydney Godby"
+   },
+   {
+      "name": "BU 3800 Marketing Principles",
+      "id": 77903,
+      "major": "Accounting",
+      "teacher": "Laureen Gilleson"
+   },
+   {
+      "name": "BU 4110 Organizational Behavior & Management",
+      "id": 45434,
+      "major": "Accounting",
+      "teacher": "Bria Dawe"
+   },
+   {
+      "name": "BU 4762 Financial Management I",
+      "id": 90023,
+      "major": "Accounting",
+      "teacher": "Marillin Mateu"
+   },
+   {
+      "name": "BU 5115 Operations Management",
+      "id": 46151,
+      "major": "Accounting",
+      "teacher": "Tandie Trussell"
+   },
+   {
+      "name": "BU 5190 Business Strategy & Policy",
+      "id": 34351,
+      "major": "Accounting",
+      "teacher": "Olvan Rous"
+   },
+   {
+      "name": "MA 2000 Applied Statistics",
+      "id": 80949,
+      "major": "Accounting",
+      "teacher": "Atlanta Ramsell"
+   },
+   {
+      "name": "BU 3010 Information Systems for Managers or Information Technology and Applications",
+      "id": 3394,
+      "major": "Accounting",
+      "teacher": "Lark Degoey"
+   },
+   {
+      "name": "BU 3905 Business Communications",
+      "id": 25522,
+      "major": "Accounting",
+      "teacher": "Gabriello Probbing"
+   },
+   {
+      "name": "MA 2300 Calculus for Business & Economics",
+      "id": 26001,
+      "major": "Accounting",
+      "teacher": "Maximilianus Fayre"
+   },
+   {
+      "name": "PE 2420 Principles of Microeconomics",
+      "id": 79902,
+      "major": "Accounting",
+      "teacher": "Bonita Eaglesham"
+   },
+   {
+      "name": "PE 2430 Principles of Macroeconomics",
+      "id": 2293,
+      "major": "Accounting",
+      "teacher": "Kelcie Ca"
+   },
+   {
+      "name": "ED 6000 Foundations of Education",
+      "id": 18503,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Meryl Meaton"
+   },
+   {
+      "name": "ED 6001 Human Growth&Dvlpmnt MAT",
+      "id": 28328,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Winthrop Prichard"
+   },
+   {
+      "name": "ED 6002 Foundations of Literacy MAT",
+      "id": 24366,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Oswald Belz"
+   },
+   {
+      "name": "ED 6003 The Exceptional Learner MAT",
+      "id": 84520,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Windham Rubinow"
+   },
+   {
+      "name": "ED 6900 Student Teaching: Science",
+      "id": 93095,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Myrtia Wolfendale"
+   },
+   {
+      "name": "CP 6560 Topics:Molecular Bio & BioChem",
+      "id": 17347,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Dorey Riccio"
+   },
+   {
+      "name": "BS 6590 Topics: Environmental Science",
+      "id": 69401,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Frasco Cribbin"
+   },
+   {
+      "name": "BS 6630  Developmental Biology/MAT",
+      "id": 53733,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Kimberly Duham"
+   },
+   {
+      "name": "ED 6092 Literacy",
+      "id": 56848,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Koralle Sneyd"
+   },
+   {
+      "name": "ED 6250 Teachng Ntr&Dvlmnt Science MAT",
+      "id": 70775,
+      "major": "Adolescence Education: Biology (7-12)",
+      "teacher": "Kanya McLaggan"
+   },
+   {
+      "name": "CP 6590 Topics: Environmental Science",
+      "id": 18355,
+      "major": "Adolescence Education: Chemistry (7-12)",
+      "teacher": "Benetta Struys"
+   },
+   {
+      "name": "CP 6740 Topics in Earth&Space Science",
+      "id": 64946,
+      "major": "Adolescence Education: Chemistry (7-12)",
+      "teacher": "Richie Delf"
+   },
+   {
+      "name": "CP 6500 Science and the Community",
+      "id": 4655,
+      "major": "Adolescence Education: Chemistry (7-12)",
+      "teacher": "Lib Gosland"
+   },
+   {
+      "name": "ED 6084 Method/Mtrls Teaching Math MAT",
+      "id": 41886,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Nikolia Hansana"
+   },
+   {
+      "name": "ED 6094 Literacy",
+      "id": 25641,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Berty Tomson"
+   },
+   {
+      "name": "ED 6902 Student Teaching Mathematics",
+      "id": 78630,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Colly Tynewell"
+   },
+   {
+      "name": "MA 6100 Probability and Statistics",
+      "id": 4849,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Cathi Hebbron"
+   },
+   {
+      "name": "MA 6200 Algebra",
+      "id": 86983,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Marjory Lodovichi"
+   },
+   {
+      "name": "MA 6150 Geometry",
+      "id": 61293,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Dagmar Lourens"
+   },
+   {
+      "name": "MA 6250 Analysis",
+      "id": 90358,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Becka Cohane"
+   },
+   {
+      "name": "MA 6400 Topics in Advanced Math & Tech",
+      "id": 6739,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Raddie Adkins"
+   },
+   {
+      "name": "MA 7500 Topics in Math & Math Ed",
+      "id": 32484,
+      "major": "Adolescence Education: Mathematics (7-12)",
+      "teacher": "Brenda Else"
+   },
+   {
+      "name": "ED 6085 Mthd/Mtrls Teach Socl Stds MAT",
+      "id": 69144,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Lexi Grissett"
+   },
+   {
+      "name": "ED 6095 Literacy",
+      "id": 45052,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Dredi Rosbottom"
+   },
+   {
+      "name": "ED 6903 Student Teaching:Social Stds",
+      "id": 45944,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Marlon Baseggio"
+   },
+   {
+      "name": "HI 6510 Topics in US History",
+      "id": 99660,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Reg Warriner"
+   },
+   {
+      "name": "HI 6520 US Constitutional&Polticl Hist",
+      "id": 58902,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Alexandro Babidge"
+   },
+   {
+      "name": "HI 6530 Econ:Theories",
+      "id": 84736,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Marabel Dorton"
+   },
+   {
+      "name": "HI 6540 Topics in European History",
+      "id": 5633,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Sharla Cosgrive"
+   },
+   {
+      "name": "HI 6565 Topics in the History of India",
+      "id": 83099,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Banky Pawnsford"
+   },
+   {
+      "name": "HI 7500 Questioning Global History",
+      "id": 43913,
+      "major": "Adolescence Education: Social Studies (7-12)",
+      "teacher": "Markus Buske"
+   },
+   {
+      "name": "CP 2120 Principles of Chemistry I",
+      "id": 19305,
+      "major": "Biochemistry",
+      "teacher": "Stearne Rickeard"
+   },
+   {
+      "name": "CP 2121 Principles of Chemistry Lab I",
+      "id": 395,
+      "major": "Biochemistry",
+      "teacher": "Jeffry Craney"
+   },
+   {
+      "name": "CP 2130 Principles of Chemistry II",
+      "id": 54203,
+      "major": "Biochemistry",
+      "teacher": "Larine Wealthall"
+   },
+   {
+      "name": "CP 2131 Principles Chemistry Lab II",
+      "id": 16779,
+      "major": "Biochemistry",
+      "teacher": "Lindsy Bolstridge"
+   },
+   {
+      "name": "CP 3300 Organic Chemistry I",
+      "id": 91448,
+      "major": "Biochemistry",
+      "teacher": "Farica Pankhurst."
+   },
+   {
+      "name": "CP 3302 Organic Chemistry Lab I",
+      "id": 88274,
+      "major": "Biochemistry",
+      "teacher": "Norah Durrance"
+   },
+   {
+      "name": "CP 3310 Organic Chemistry II",
+      "id": 52770,
+      "major": "Biochemistry",
+      "teacher": "Tammy Bastow"
+   },
+   {
+      "name": "CP 3312 Organic Chemistry Lab II",
+      "id": 80269,
+      "major": "Biochemistry",
+      "teacher": "Genna Jarret"
+   },
+   {
+      "name": "CP 3400 Analytical Chemistry-Lect/Lab",
+      "id": 49730,
+      "major": "Biochemistry",
+      "teacher": "Aeriela Jindrich"
+   },
+   {
+      "name": "CP 4700 Physical Chemistry I",
+      "id": 22847,
+      "major": "Biochemistry",
+      "teacher": "Mella Phillipson"
+   },
+   {
+      "name": "CP 5920 Seminar I",
+      "id": 98438,
+      "major": "Biochemistry",
+      "teacher": "Dennet Soppeth"
+   },
+   {
+      "name": "CP 5921 Seminar II",
+      "id": 65093,
+      "major": "Biochemistry",
+      "teacher": "Jocko Brose"
+   },
+   {
+      "name": "CP 4510 Biochemistry I",
+      "id": 54294,
+      "major": "Biochemistry",
+      "teacher": "Leonelle Lansley"
+   },
+   {
+      "name": "CP 4515 Biochemistry II",
+      "id": 38463,
+      "major": "Biochemistry",
+      "teacher": "Birch O' Flaherty"
+   },
+   {
+      "name": "CP 4520 Biochemistry Lab",
+      "id": 98412,
+      "major": "Biochemistry",
+      "teacher": "Maddy Veare"
+   },
+   {
+      "name": "BS 2400 Basic Bio Sciences I",
+      "id": 75429,
+      "major": "Biochemistry",
+      "teacher": "Glory Tillett"
+   },
+   {
+      "name": "BS 2410 Basic Bio Sciences II",
+      "id": 85292,
+      "major": "Biochemistry",
+      "teacher": "Theo Kauffman"
+   },
+   {
+      "name": "BS 4400 Cell Biology",
+      "id": 48430,
+      "major": "Biochemistry",
+      "teacher": "Frannie Coyett"
+   },
+   {
+      "name": "BS 4460 Genetics",
+      "id": 3018,
+      "major": "Biochemistry",
+      "teacher": "Dalia Dannett"
+   },
+   {
+      "name": "BS 4560 Molecular Biology",
+      "id": 78278,
+      "major": "Biochemistry",
+      "teacher": "Lauri Gilfillan"
+   },
+   {
+      "name": "CP 2220 Structure of Physics I",
+      "id": 10836,
+      "major": "Biochemistry",
+      "teacher": "Randolf Habden"
+   },
+   {
+      "name": "CP 2221 Structure of Physics I Lab",
+      "id": 82139,
+      "major": "Biochemistry",
+      "teacher": "Ramon Sunners"
+   },
+   {
+      "name": "CP 2230 Structure of Physics II",
+      "id": 71030,
+      "major": "Biochemistry",
+      "teacher": "Brander Northill"
+   },
+   {
+      "name": "MA 2310 Calc & Analytic Geometry I",
+      "id": 70943,
+      "major": "Biochemistry",
+      "teacher": "Faber Quinby"
+   },
+   {
+      "name": "MA 2320 Calc & Analytic Geometry II",
+      "id": 72163,
+      "major": "Biochemistry",
+      "teacher": "Kai Davydenko"
+   },
+   {
+      "name": "BS4400 Cell Biology",
+      "id": 71567,
+      "major": "Biological Sciences",
+      "teacher": "Zahara Woloschinski"
+   },
+   {
+      "name": "BS4460 Genetics",
+      "id": 51973,
+      "major": "Biological Sciences",
+      "teacher": "Gusella Kibbey"
+   },
+   {
+      "name": "BS4440 Evolution",
+      "id": 77688,
+      "major": "Biological Sciences",
+      "teacher": "Gregorius Bras"
+   },
+   {
+      "name": "BS2490 Environmental Science",
+      "id": 53233,
+      "major": "Biological Sciences",
+      "teacher": "Esmaria Cordall"
+   },
+   {
+      "name": "BS3400 Vertebrate Physiology",
+      "id": 55466,
+      "major": "Biological Sciences",
+      "teacher": "Percival Cescot"
+   },
+   {
+      "name": "BS3450 Plant Biology",
+      "id": 77617,
+      "major": "Biological Sciences",
+      "teacher": "Gregg Spadoni"
+   },
+   {
+      "name": "BS3510 Parasitology",
+      "id": 23143,
+      "major": "Biological Sciences",
+      "teacher": "Joeann Brockherst"
+   },
+   {
+      "name": "BS3520 Comparative Anatomy",
+      "id": 95834,
+      "major": "Biological Sciences",
+      "teacher": "Gussie Killshaw"
+   },
+   {
+      "name": "BS3530 Comparative Genomics",
+      "id": 42897,
+      "major": "Biological Sciences",
+      "teacher": "Anatola Chattey"
+   },
+   {
+      "name": "BS3531 Comparative Genomics Lab",
+      "id": 87745,
+      "major": "Biological Sciences",
+      "teacher": "Earl Pedder"
+   },
+   {
+      "name": "BS3710 Environmental Physiology",
+      "id": 16464,
+      "major": "Biological Sciences",
+      "teacher": "Bary McLese"
+   },
+   {
+      "name": "BS3810  Biological Aspects of Aging",
+      "id": 64181,
+      "major": "Biological Sciences",
+      "teacher": "Krisha Threadkell"
+   },
+   {
+      "name": "BS4400  Cell Biology",
+      "id": 54614,
+      "major": "Biological Sciences",
+      "teacher": "Carly Greggs"
+   },
+   {
+      "name": "BS4410  Histology",
+      "id": 55177,
+      "major": "Biological Sciences",
+      "teacher": "Phedra Collyer"
+   },
+   {
+      "name": "BS4420  Microbiology",
+      "id": 629,
+      "major": "Biological Sciences",
+      "teacher": "Cassius Quare"
+   },
+   {
+      "name": "BS4430  Developmental Biology",
+      "id": 77419,
+      "major": "Biological Sciences",
+      "teacher": "Emmy Thireau"
+   },
+   {
+      "name": "BS4440  Evolution",
+      "id": 9923,
+      "major": "Biological Sciences",
+      "teacher": "Xylia Goalby"
+   },
+   {
+      "name": "BS4460  Genetics",
+      "id": 3473,
+      "major": "Biological Sciences",
+      "teacher": "Irina Ainger"
+   },
+   {
+      "name": "BS4461  Immunology",
+      "id": 59877,
+      "major": "Biological Sciences",
+      "teacher": "Donnamarie Probbing"
+   },
+   {
+      "name": "BS4470  Ecology",
+      "id": 3979,
+      "major": "Biological Sciences",
+      "teacher": "Torry Ambage"
+   },
+   {
+      "name": "BU 3010 Information Systems for Managers",
+      "id": 17211,
+      "major": "Business Administration",
+      "teacher": "Leshia Carbry"
+   },
+   {
+      "name": "BU 3502 Principles of Accounting I",
+      "id": 70213,
+      "major": "Business Administration",
+      "teacher": "Norri Skipsey"
+   },
+   {
+      "name": "BU 4110 Organizational Behavior & Mgmt",
+      "id": 76573,
+      "major": "Business Administration",
+      "teacher": "Misti Fiske"
+   },
+   {
+      "name": "MA 2300 Calc/Business & Economics",
+      "id": 79211,
+      "major": "Business Administration",
+      "teacher": "Collen Werner"
+   },
+   {
+      "name": "BU 4120  Global Business",
+      "id": 30731,
+      "major": "Business Administration",
+      "teacher": "Ezri Bonnet"
+   },
+   {
+      "name": "BU 5171 Human Resource Management",
+      "id": 77019,
+      "major": "Business Administration",
+      "teacher": "Joye Merchant"
+   },
+   {
+      "name": "BU 5196 Leadership",
+      "id": 22489,
+      "major": "Business Administration",
+      "teacher": "Freemon Daughton"
+   },
+   {
+      "name": "BU 4035 Web Sys & Electronic Commerce",
+      "id": 98490,
+      "major": "Business Administration",
+      "teacher": "Ive Hattigan"
+   },
+   {
+      "name": "BU 4130 Entrepreneurship",
+      "id": 55878,
+      "major": "Business Administration",
+      "teacher": "Benedikt Emmatt"
+   },
+   {
+      "name": "BU 5195 Management Seminar",
+      "id": 87653,
+      "major": "Business Administration",
+      "teacher": "Ranna Le Merchant"
+   },
+   {
+      "name": "CP 2121Principles of Chemistry Lab I",
+      "id": 4321,
+      "major": "Chemistry",
+      "teacher": "Banky Gartan"
+   },
+   {
+      "name": "CP 2130  Principles of Chemistry II",
+      "id": 15517,
+      "major": "Chemistry",
+      "teacher": "Teddie Lowder"
+   },
+   {
+      "name": "CP 3302  Organic Chemistry Lab I",
+      "id": 28294,
+      "major": "Chemistry",
+      "teacher": "Tally Fraschetti"
+   },
+   {
+      "name": "CP 4700  Physical Chemistry I",
+      "id": 13415,
+      "major": "Chemistry",
+      "teacher": "Meris Heasley"
+   },
+   {
+      "name": "CP 4710 Physical Chemistry II",
+      "id": 63020,
+      "major": "Chemistry",
+      "teacher": "Zared le Keux"
+   },
+   {
+      "name": "CP 4720  Physical Chemistry Lab",
+      "id": 92063,
+      "major": "Chemistry",
+      "teacher": "Marion Mayze"
+   },
+   {
+      "name": "CP 4800 Adv Chemical Methods: Lect/Lab",
+      "id": 78845,
+      "major": "Chemistry",
+      "teacher": "Barry Beamont"
+   },
+   {
+      "name": "CP 2240  General Physics I",
+      "id": 61116,
+      "major": "Chemistry",
+      "teacher": "Gan Gabitis"
+   },
+   {
+      "name": "CP 2250 General Physics II",
+      "id": 23664,
+      "major": "Chemistry",
+      "teacher": "Jean Hobbing"
+   },
+   {
+      "name": "CP 2251 General Physics II Lab",
+      "id": 18846,
+      "major": "Chemistry",
+      "teacher": "Rabbi Vanyushkin"
+   },
+   {
+      "name": "CP 3230  Math Methods: Physical Science",
+      "id": 71475,
+      "major": "Chemistry",
+      "teacher": "Talia De Dantesie"
+   },
+   {
+      "name": "MA 3160  Linear Algebra",
+      "id": 56354,
+      "major": "Chemistry",
+      "teacher": "Lexine Vennings"
+   },
+   {
+      "name": "MA 3330  Calc & Analyt Geometry III",
+      "id": 67888,
+      "major": "Chemistry",
+      "teacher": "Gipsy Robey"
+   },
+   {
+      "name": "MA 4360  Differential Equations",
+      "id": 9641,
+      "major": "Chemistry",
+      "teacher": "Johnathan Attarge"
+   },
+   {
+      "name": "ED3700 Child Development for Teachers",
+      "id": 80583,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Douglas Cashley"
+   },
+   {
+      "name": "ED3820 Foundations of Special Education",
+      "id": 14050,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Kyle Beszant"
+   },
+   {
+      "name": "ED3950 Creating Schools for a Just Society",
+      "id": 913,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Bondy Collacombe"
+   },
+   {
+      "name": "ED4050 Innovative Instructional Design and Assessment",
+      "id": 2061,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Dani Dewicke"
+   },
+   {
+      "name": "ED4121 Methods & Materials of Teaching Elementary Science Methods",
+      "id": 83916,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Isobel Badgers"
+   },
+   {
+      "name": "ED4122 Methods & Materials of Teaching Elementary Math Methods",
+      "id": 16311,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Addie Gelardi"
+   },
+   {
+      "name": "ED4200 Literacy for All Students",
+      "id": 75474,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Drusilla Buckell"
+   },
+   {
+      "name": "ED4220 Language Arts in the Context of Childhood Education",
+      "id": 13510,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Timofei MacCrackan"
+   },
+   {
+      "name": "ED5925 Building a Classroom Community for All Learners",
+      "id": 22161,
+      "major": "Childhood Education (1-6)",
+      "teacher": "Susanne Tynan"
+   },
+   {
+      "name": "CS 2510 Computer Programming I",
+      "id": 89609,
+      "major": "Computer & Information Science",
+      "teacher": "Fanechka Robbs"
+   },
+   {
+      "name": "CS 2511 Computer Programming II",
+      "id": 92133,
+      "major": "Computer & Information Science",
+      "teacher": "Elsie Gladwell"
+   },
+   {
+      "name": "CS 3620 Computer Architecture I",
+      "id": 39626,
+      "major": "Computer & Information Science",
+      "teacher": "Pru McRobb"
+   },
+   {
+      "name": "CS 3810  Data Structures & Algorithms",
+      "id": 65758,
+      "major": "Computer & Information Science",
+      "teacher": "Nady Mattholie"
+   },
+   {
+      "name": "CS 3911 C++in Object Oriented Design",
+      "id": 22088,
+      "major": "Computer & Information Science",
+      "teacher": "Berti Grumble"
+   },
+   {
+      "name": "CS 4100 Technical Communications",
+      "id": 67446,
+      "major": "Computer & Information Science",
+      "teacher": "Jdavie Pedley"
+   },
+   {
+      "name": "CS 4501 Software Engineering",
+      "id": 82950,
+      "major": "Computer & Information Science",
+      "teacher": "Hillard Jakobssen"
+   },
+   {
+      "name": "CS 4550 Database Management Systems",
+      "id": 94182,
+      "major": "Computer & Information Science",
+      "teacher": "Valene Jan"
+   },
+   {
+      "name": "CS 4720 Internet & Web Tech",
+      "id": 23914,
+      "major": "Computer & Information Science",
+      "teacher": "Giorgio Casseldine"
+   },
+   {
+      "name": "CS 5910 Systems Design & Implement",
+      "id": 75916,
+      "major": "Computer & Information Science",
+      "teacher": "Marena Lothean"
+   },
+   {
+      "name": "CS 5710 Computer Networks",
+      "id": 63773,
+      "major": "Computer & Information Science",
+      "teacher": "Tommie Woollam"
+   },
+   {
+      "name": "CS 4400  Artificial Intelligence",
+      "id": 71651,
+      "major": "Computer & Information Science",
+      "teacher": "Emogene Mellanby"
+   },
+   {
+      "name": "CS 4705 Intro to Computer Security",
+      "id": 56868,
+      "major": "Computer & Information Science",
+      "teacher": "Lyn Canfer"
+   },
+   {
+      "name": "CS 5610  Operating Systems",
+      "id": 70165,
+      "major": "Computer & Information Science",
+      "teacher": "Cyril Criag"
+   },
+   {
+      "name": "CS 5730  Computer Network Security",
+      "id": 34015,
+      "major": "Computer & Information Science",
+      "teacher": "Cathie Twitchings"
+   },
+   {
+      "name": "CS 5810  Data Mining",
+      "id": 36993,
+      "major": "Computer & Information Science",
+      "teacher": "Syman Adaway"
+   },
+   {
+      "name": "MA 3030  Discrete Mathematics",
+      "id": 88981,
+      "major": "Computer & Information Science",
+      "teacher": "Joelynn Ianittello"
+   },
+   {
+      "name": "MA 3210  Intro to Prob & Statistics",
+      "id": 19426,
+      "major": "Computer & Information Science",
+      "teacher": "Papagena Erlam"
+   },
+   {
+      "name": "MA 4100  Number Theory",
+      "id": 49903,
+      "major": "Computer & Information Science",
+      "teacher": "Ag Carlett"
+   },
+   {
+      "name": "SY 1500  Intro Sociology",
+      "id": 45062,
+      "major": "Criminology",
+      "teacher": "Dewain Huertas"
+   },
+   {
+      "name": "CR 1500 Intro to Criminology",
+      "id": 96772,
+      "major": "Criminology",
+      "teacher": "Gilda Laugier"
+   },
+   {
+      "name": "CR 2090  Juvenile Delinquency",
+      "id": 5868,
+      "major": "Criminology",
+      "teacher": "Corly Galea"
+   },
+   {
+      "name": "CR 3092 Victimology",
+      "id": 91653,
+      "major": "Criminology",
+      "teacher": "Jasper Greswell"
+   },
+   {
+      "name": "CR 3093  Criminal Justice Admin",
+      "id": 41162,
+      "major": "Criminology",
+      "teacher": "Paten Janouch"
+   },
+   {
+      "name": "CR 3094 Drugs and Society",
+      "id": 21348,
+      "major": "Criminology",
+      "teacher": "Mordy Sofe"
+   },
+   {
+      "name": "CR 3117  Policing Bodies",
+      "id": 61157,
+      "major": "Criminology",
+      "teacher": "Talbot Wardale"
+   },
+   {
+      "name": "CR 3200  Crime",
+      "id": 1276,
+      "major": "Criminology",
+      "teacher": "Stavros Vassel"
+   },
+   {
+      "name": "CR 4000 Gender",
+      "id": 82512,
+      "major": "Criminology",
+      "teacher": "Kenny Lynett"
+   },
+   {
+      "name": "CR 4091 Punishment & Corrections",
+      "id": 50961,
+      "major": "Criminology",
+      "teacher": "Silvie Doddrell"
+   },
+   {
+      "name": "CR 4099 Sociology of Violence",
+      "id": 16679,
+      "major": "Criminology",
+      "teacher": "Katharina Keesman"
+   },
+   {
+      "name": "CR 4999 Issues in Criminology",
+      "id": 82642,
+      "major": "Criminology",
+      "teacher": "Gard Entissle"
+   },
+   {
+      "name": "SY 2600  Social Deviance",
+      "id": 1061,
+      "major": "Criminology",
+      "teacher": "Tymothy Goldsack"
+   },
+   {
+      "name": "SY 4810 Law & Justice",
+      "id": 3793,
+      "major": "Criminology",
+      "teacher": "Caz McClifferty"
+   },
+   {
+      "name": "SY 4520 Research Methods I",
+      "id": 41532,
+      "major": "Criminology",
+      "teacher": "Angeline Willgoose"
+   },
+   {
+      "name": "SY 4530 Sociological Theory I",
+      "id": 87642,
+      "major": "Criminology",
+      "teacher": "Tine Josephoff"
+   },
+   {
+      "name": "SY 4570 Research Methods II",
+      "id": 25754,
+      "major": "Criminology",
+      "teacher": "Domenico Duddle"
+   },
+   {
+      "name": "CR 4550 Theories of Crime",
+      "id": 92583,
+      "major": "Criminology",
+      "teacher": "Ekaterina Skitt"
+   },
+   {
+      "name": "SY 5990  Senior Seminar",
+      "id": 59872,
+      "major": "English",
+      "teacher": "Brad Langley"
+   },
+   {
+      "name": "EL 1000 English Comp I: Exposition",
+      "id": 1594,
+      "major": "English",
+      "teacher": "Demetri Plampin"
+   },
+   {
+      "name": "EL 2239 Horror Literature",
+      "id": 36225,
+      "major": "English",
+      "teacher": "Diandra Hassey"
+   },
+   {
+      "name": "EL 3010  Structure & Grammar of English",
+      "id": 11361,
+      "major": "English",
+      "teacher": "Hayden McGookin"
+   },
+   {
+      "name": "EL 3500  Lit Across Cultures I:Analysis",
+      "id": 96970,
+      "major": "English",
+      "teacher": "Richart Stell"
+   },
+   {
+      "name": "EL 3510  Lit Across Cultures II:Theory",
+      "id": 23507,
+      "major": "English",
+      "teacher": "Ax Scotchbrook"
+   },
+   {
+      "name": "EL 4400  Critical Theory",
+      "id": 38868,
+      "major": "English",
+      "teacher": "Nettle Emett"
+   },
+   {
+      "name": "EL 3600 US Literature I",
+      "id": 62239,
+      "major": "English",
+      "teacher": "Modestia Storer"
+   },
+   {
+      "name": "EL 3610  US Literature II",
+      "id": 99032,
+      "major": "English",
+      "teacher": "Angeline Irnys"
+   },
+   {
+      "name": "EL 3800 Eng Lit I:Beowulf-18th Century",
+      "id": 23336,
+      "major": "English",
+      "teacher": "Mace Flucks"
+   },
+   {
+      "name": "EL 3810  Eng Lit II:Romantics - Present",
+      "id": 39469,
+      "major": "English",
+      "teacher": "Benny Gimeno"
+   },
+   {
+      "name": "EL 3560  Literatures of Europe:Part I",
+      "id": 81411,
+      "major": "English",
+      "teacher": "Bald Ohrtmann"
+   },
+   {
+      "name": "EL 3561 Literatures of Europe:Part II",
+      "id": 55028,
+      "major": "English",
+      "teacher": "Katee Glanville"
+   },
+   {
+      "name": "EL 3950  Creative Non-Fiction",
+      "id": 61726,
+      "major": "English",
+      "teacher": "Yardley Manolov"
+   },
+   {
+      "name": "EL 4311 Greek Drama",
+      "id": 36841,
+      "major": "English",
+      "teacher": "Corry Sherewood"
+   },
+   {
+      "name": "EL 4312 Greek Mythology",
+      "id": 69955,
+      "major": "English",
+      "teacher": "Randi Soppitt"
+   },
+   {
+      "name": "EL 4325 Shakespeare: Selected Plays",
+      "id": 42444,
+      "major": "English",
+      "teacher": "Dominic Smickle"
+   },
+   {
+      "name": "EL 4402 Sin & Sexuality in Literature",
+      "id": 53178,
+      "major": "English",
+      "teacher": "Dolph Haylock"
+   },
+   {
+      "name": "EL 4500 Topics in British/US Lit",
+      "id": 93288,
+      "major": "English",
+      "teacher": "Kerrin Gini"
+   },
+   {
+      "name": "EL 4510  Modern Drama & Theatre",
+      "id": 27427,
+      "major": "English",
+      "teacher": "Corrianne Toolin"
+   },
+   {
+      "name": "EL 4540  Epic: East and West",
+      "id": 22637,
+      "major": "English",
+      "teacher": "Valry Maiden"
+   },
+   {
+      "name": "EL 4800  Major Authors",
+      "id": 79604,
+      "major": "English",
+      "teacher": "Jarrad Quaintance"
+   },
+   {
+      "name": "EL 3811  Survey of African-American Lit",
+      "id": 59660,
+      "major": "English",
+      "teacher": "Grange Corselles"
+   },
+   {
+      "name": "EL 4000 Native American Literature",
+      "id": 15905,
+      "major": "English",
+      "teacher": "Michele Barkes"
+   },
+   {
+      "name": "EL 4010 Harlem Renaissance",
+      "id": 41347,
+      "major": "English",
+      "teacher": "Serene Dainty"
+   },
+   {
+      "name": "BU 3010 Info Systems For Mgrs",
+      "id": 61527,
+      "major": "Finance",
+      "teacher": "Gerardo Yielding"
+   },
+   {
+      "name": "BU 3511 Principles of Accounting II",
+      "id": 1935,
+      "major": "Finance",
+      "teacher": "Kira Boam"
+   },
+   {
+      "name": "BU 5115  Operations Management",
+      "id": 98498,
+      "major": "Finance",
+      "teacher": "Suellen Wallbanks"
+   },
+   {
+      "name": "BU 5190  Business Strategy & Policy",
+      "id": 53154,
+      "major": "Finance",
+      "teacher": "Zonnya Imeson"
+   },
+   {
+      "name": "BU 5771 Global Financial Markets",
+      "id": 26922,
+      "major": "Finance",
+      "teacher": "Shanna Hawkshaw"
+   },
+   {
+      "name": "BU 4720   Global Financial Markets",
+      "id": 40649,
+      "major": "Finance",
+      "teacher": "Benn Joannet"
+   },
+   {
+      "name": "BU 4774   Financial Markets & Inst",
+      "id": 21674,
+      "major": "Finance",
+      "teacher": "Malina Staples"
+   },
+   {
+      "name": "BU 5740  Invest Mgmt & Securities Anal",
+      "id": 45453,
+      "major": "Finance",
+      "teacher": "Madlin McIlroy"
+   },
+   {
+      "name": "BU 5710   Fin. Modeling & Forecasting",
+      "id": 67778,
+      "major": "Finance",
+      "teacher": "Hillyer Scannell"
+   },
+   {
+      "name": "BU 5760  Corporate Finance",
+      "id": 70090,
+      "major": "Finance",
+      "teacher": "Vyky Menguy"
+   },
+   {
+      "name": "BU 5789 Futures & Options Markets",
+      "id": 89503,
+      "major": "Finance",
+      "teacher": "Stephana Paragreen"
+   },
+   {
+      "name": "BS 2100 Biology for Non-Science Majors",
+      "id": 44159,
+      "major": "Health and Society",
+      "teacher": "Cross Haylett"
+   },
+   {
+      "name": "BS 2300  Anatomy&Physiology I Lecture",
+      "id": 29584,
+      "major": "Health and Society",
+      "teacher": "Ketti Machen"
+   },
+   {
+      "name": "BS 2310  Anatomy&Physiology II Lecture",
+      "id": 30576,
+      "major": "Health and Society",
+      "teacher": "Sax Muston"
+   },
+   {
+      "name": "BS 2410  Basic Bio Sciences II",
+      "id": 91400,
+      "major": "Health and Society",
+      "teacher": "Alethea Stollenbeck"
+   },
+   {
+      "name": "PH 3600  Social Determinants of Health",
+      "id": 61498,
+      "major": "Health and Society",
+      "teacher": "Thelma Weld"
+   },
+   {
+      "name": "PH 3610 Intro.-U.S.Health Care System",
+      "id": 19237,
+      "major": "Health and Society",
+      "teacher": "Krissy Humbie"
+   },
+   {
+      "name": "PH 4670 Biostatistics",
+      "id": 7810,
+      "major": "Health and Society",
+      "teacher": "Percival Bompass"
+   },
+   {
+      "name": "PH 4800 Epidemiology",
+      "id": 64757,
+      "major": "Health and Society",
+      "teacher": "Adrienne Garley"
+   },
+   {
+      "name": "PH 4900 Community Health Field Placmt",
+      "id": 88021,
+      "major": "Health and Society",
+      "teacher": "Mickie Figge"
+   },
+   {
+      "name": "PH 5900 Research Methods",
+      "id": 315,
+      "major": "Health and Society",
+      "teacher": "Marquita Palethorpe"
+   },
+   {
+      "name": "PH 4450 Human Sexuality",
+      "id": 29935,
+      "major": "Health and Society",
+      "teacher": "Roshelle Dainton"
+   },
+   {
+      "name": "PH 3200  Nutrition & Society",
+      "id": 27351,
+      "major": "Health and Society",
+      "teacher": "Willdon Baly"
+   },
+   {
+      "name": "PH 3700  Medical Anthropology",
+      "id": 84674,
+      "major": "Health and Society",
+      "teacher": "Ewan L'Homme"
+   },
+   {
+      "name": "PH 4600  Health Program Planning & Eval",
+      "id": 55327,
+      "major": "Health and Society",
+      "teacher": "Ab Voak"
+   },
+   {
+      "name": "PH 4610 Women's Health",
+      "id": 39460,
+      "major": "Health and Society",
+      "teacher": "Lauri Tebald"
+   },
+   {
+      "name": "PH 4631  Mental Health",
+      "id": 3431,
+      "major": "Health and Society",
+      "teacher": "Shirl Kennealy"
+   },
+   {
+      "name": "PH 4661  Health Education",
+      "id": 46965,
+      "major": "Health and Society",
+      "teacher": "Mychal Rae"
+   },
+   {
+      "name": "PH 4680 Environmental Health",
+      "id": 91726,
+      "major": "Health and Society",
+      "teacher": "Rem Affron"
+   },
+   {
+      "name": "PH 4750  Aging & Social Policy",
+      "id": 13672,
+      "major": "Health and Society",
+      "teacher": "Ermina Cadden"
+   },
+   {
+      "name": "PH 4760  Health Administration",
+      "id": 42477,
+      "major": "Health and Society",
+      "teacher": "Caresa Ambrose"
+   },
+   {
+      "name": "PH 4770  Occupational Health",
+      "id": 28707,
+      "major": "Health and Society",
+      "teacher": "Marmaduke Jeanneau"
+   },
+   {
+      "name": "PH 4790 Health Care Policy",
+      "id": 2231,
+      "major": "Health and Society",
+      "teacher": "Abelard Blacklock"
+   },
+   {
+      "name": "PH 4810  Ethics in Public Health",
+      "id": 69777,
+      "major": "Health and Society",
+      "teacher": "Maiga Sherbourne"
+   },
+   {
+      "name": "PH 4820  Health Law",
+      "id": 18767,
+      "major": "Health and Society",
+      "teacher": "Kerrill FitzGilbert"
+   },
+   {
+      "name": "PH 4890  Environmental Justice",
+      "id": 83437,
+      "major": "Health and Society",
+      "teacher": "Kele Gallacher"
+   },
+   {
+      "name": "HI 2681 Intro to Europe Hist:1350-Present",
+      "id": 23114,
+      "major": "History",
+      "teacher": "Jacquelynn Bartos"
+   },
+   {
+      "name": "AS 2112 American People I",
+      "id": 17074,
+      "major": "History",
+      "teacher": "Correy Ashwood"
+   },
+   {
+      "name": "AS 2122 American People II",
+      "id": 92552,
+      "major": "History",
+      "teacher": "Desmund Gulliver"
+   },
+   {
+      "name": "HI 3080   Asian Cultures",
+      "id": 57296,
+      "major": "History",
+      "teacher": "Lilia Brasner"
+   },
+   {
+      "name": "HI 3091 African Cultures",
+      "id": 44373,
+      "major": "History",
+      "teacher": "Thomasina Wearden"
+   },
+   {
+      "name": "HI 3110 Latin American Culture",
+      "id": 19252,
+      "major": "History",
+      "teacher": "Elysee Vasyutkin"
+   },
+   {
+      "name": "HI 3640  African History",
+      "id": 6424,
+      "major": "History",
+      "teacher": "Enriqueta Boshard"
+   },
+   {
+      "name": "HI 3835 Islamic Cultures",
+      "id": 50031,
+      "major": "History",
+      "teacher": "Kingsly Armfield"
+   },
+   {
+      "name": "HI 4308 History Modern Middle East",
+      "id": 52618,
+      "major": "History",
+      "teacher": "Tomlin Please"
+   },
+   {
+      "name": "HI 4632 4 Credits Japanese History Through Literature",
+      "id": 52526,
+      "major": "History",
+      "teacher": "Anatola Slate"
+   },
+   {
+      "name": "HI 4800  History of India",
+      "id": 42472,
+      "major": "History",
+      "teacher": "Carree Wyson"
+   },
+   {
+      "name": "HI 4900 Modern China-Study Abroad",
+      "id": 50582,
+      "major": "History",
+      "teacher": "Karola Venediktov"
+   },
+   {
+      "name": "HI 4905 Chinese Civilization",
+      "id": 14485,
+      "major": "History",
+      "teacher": "Kare Peers"
+   },
+   {
+      "name": "PE 4690 Politics of Lat Amer/Caribbean",
+      "id": 17768,
+      "major": "History",
+      "teacher": "Karolina Waterland"
+   },
+   {
+      "name": "HI 4001 19th Century",
+      "id": 7756,
+      "major": "History",
+      "teacher": "Roxanne Nare"
+   },
+   {
+      "name": "HI 4011  20th Century",
+      "id": 3469,
+      "major": "History",
+      "teacher": "Christalle France"
+   },
+   {
+      "name": "HI 4700  Modern Global Environments",
+      "id": 24923,
+      "major": "History",
+      "teacher": "Mandie Luc"
+   },
+   {
+      "name": "HI 3610  America's African Heritage",
+      "id": 52427,
+      "major": "History",
+      "teacher": "Isabella Sybry"
+   },
+   {
+      "name": "HI 3840 Crescent and Cross",
+      "id": 17594,
+      "major": "History",
+      "teacher": "Georgie Osborne"
+   },
+   {
+      "name": "HI 4650   History of African Enslavement",
+      "id": 74398,
+      "major": "History",
+      "teacher": "Arlana Blase"
+   },
+   {
+      "name": "HI 4910  Chinese Diaspora",
+      "id": 84180,
+      "major": "History",
+      "teacher": "Vernice Cartmael"
+   },
+   {
+      "name": "HI 2810  Geography",
+      "id": 38301,
+      "major": "History",
+      "teacher": "Cammi Sapsforde"
+   },
+   {
+      "name": "Earth and People",
+      "id": 94151,
+      "major": "History",
+      "teacher": "Rickie Robertacci"
+   },
+   {
+      "name": "HI 4600 World Regional Geography",
+      "id": 58924,
+      "major": "History",
+      "teacher": "Sayre Minchindon"
+   },
+   {
+      "name": "AS 4212  Early America",
+      "id": 64728,
+      "major": "History",
+      "teacher": "Meridel Le land"
+   },
+   {
+      "name": "AS 4218  Civil War & Reconstruction",
+      "id": 17934,
+      "major": "History",
+      "teacher": "Yvonne Chambers"
+   },
+   {
+      "name": "AS 4290  Youth in America: A History",
+      "id": 33176,
+      "major": "History",
+      "teacher": "Westleigh Lowmass"
+   },
+   {
+      "name": "PE 2650 Intro to U.S. Politics",
+      "id": 60002,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Harrietta Shellcross"
+   },
+   {
+      "name": "IR 2210 Unions & Management: An Intro",
+      "id": 17565,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Noellyn Rossbrooke"
+   },
+   {
+      "name": "IR 3140 Unions & Public Policy",
+      "id": 78633,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Caitlin Hurdman"
+   },
+   {
+      "name": "IR 3300 CollectiveBarg & GrievanceProc",
+      "id": 3211,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Kariotta Merrell"
+   },
+   {
+      "name": "IR 4320 Labor & Employment Law",
+      "id": 71321,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Lurette Galvan"
+   },
+   {
+      "name": "IR 3330 Women",
+      "id": 58231,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Lamar Chetwynd"
+   },
+   {
+      "name": "IR 3415 Labor Economics",
+      "id": 10954,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Berne Redwin"
+   },
+   {
+      "name": "IR 3860 Development of the Modern Corp",
+      "id": 94568,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Emlyn Genese"
+   },
+   {
+      "name": "BU 5125  Business Ethics",
+      "id": 769,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Farrah Rockwell"
+   },
+   {
+      "name": "BU 5171  Human Resource Managemen",
+      "id": 24137,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Brennen Phillipps"
+   },
+   {
+      "name": "HS 4770  Occupational Health",
+      "id": 4081,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Nobie Oldridge"
+   },
+   {
+      "name": "IR 3120  History:AmericanLaborRelations",
+      "id": 71188,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Daron Pinchbeck"
+   },
+   {
+      "name": "IR 3260  Comparative Labor Relations",
+      "id": 4702,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Seana Guiso"
+   },
+   {
+      "name": "IR 3500 Arbitration & Mediation",
+      "id": 58842,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Marietta Kirmond"
+   },
+   {
+      "name": "IR 4200  Strategic Research/Organizers",
+      "id": 23347,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Mateo Pitcaithley"
+   },
+   {
+      "name": "IR 4600 Topics in Labor Studies",
+      "id": 66832,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Clarita Sallans"
+   },
+   {
+      "name": "PE 4430  Health Economics",
+      "id": 75747,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Guy Clemenzo"
+   },
+   {
+      "name": "PE 2300 Introduction to Law",
+      "id": 40584,
+      "major": "�Industrial and Labor Relations",
+      "teacher": "Alasteir Bruhnicke"
+   },
+   {
+      "name": "EL 8998 Elec(Interpersonal Comm)",
+      "id": 22591,
+      "major": "Liberal Arts",
+      "teacher": "Verile Havoc"
+   },
+   {
+      "name": "MA 1020 College Algebra",
+      "id": 29751,
+      "major": "Liberal Arts",
+      "teacher": "Coretta Kuhnwald"
+   },
+   {
+      "name": "CS 3611 Advanced C#",
+      "id": 61043,
+      "major": "Management Information Systems",
+      "teacher": "Lorena D'Antonio"
+   },
+   {
+      "name": "BU 3800 Marketing: Principles&Concepts",
+      "id": 32857,
+      "major": "Management Information Systems",
+      "teacher": "Ruy Pyper"
+   },
+   {
+      "name": "BU3010 Information Systems for Managers",
+      "id": 86497,
+      "major": "Management Information Systems",
+      "teacher": "Dyanne Spilling"
+   },
+   {
+      "name": "MA2000 Applied Statistics",
+      "id": 6125,
+      "major": "Management Information Systems",
+      "teacher": "Stearn Lympany"
+   },
+   {
+      "name": "MA2300 Calculus for Business & Economics",
+      "id": 28258,
+      "major": "�Marketing",
+      "teacher": "Sterling Doncom"
+   },
+   {
+      "name": "BU3600 Principles Business Law",
+      "id": 93687,
+      "major": "�Marketing",
+      "teacher": "Dreddy De Rye Barrett"
+   },
+   {
+      "name": "BU3800 Marketing: Principles & Concepts",
+      "id": 63268,
+      "major": "�Marketing",
+      "teacher": "Chrystel Melladew"
+   },
+   {
+      "name": "BU3905 Business Communication",
+      "id": 68884,
+      "major": "�Marketing",
+      "teacher": "Anne-corinne Marti"
+   },
+   {
+      "name": "BU4110 Organizational Behavior & Management",
+      "id": 2426,
+      "major": "�Marketing",
+      "teacher": "Catha Dalton"
+   },
+   {
+      "name": "BU4762 Financial Management",
+      "id": 4909,
+      "major": "�Marketing",
+      "teacher": "Cazzie Hearty"
+   },
+   {
+      "name": "BU5115 Operations Management",
+      "id": 78164,
+      "major": "�Marketing",
+      "teacher": "Adoree Blasiak"
+   },
+   {
+      "name": "BU5190 Business Strategy & Policy",
+      "id": 81220,
+      "major": "�Marketing",
+      "teacher": "Kearney Lewty"
+   },
+   {
+      "name": "BU4800 Marketing Research",
+      "id": 72024,
+      "major": "�Marketing",
+      "teacher": "Alisander Papierz"
+   },
+   {
+      "name": "BU4820 International Marketing",
+      "id": 90784,
+      "major": "�Marketing",
+      "teacher": "Fredric Roberds"
+   },
+   {
+      "name": "BU4851 Consumer Behavior",
+      "id": 92810,
+      "major": "�Marketing",
+      "teacher": "Tracey Iacopini"
+   },
+   {
+      "name": "BU5841 Strategic Marketing",
+      "id": 82152,
+      "major": "�Marketing",
+      "teacher": "Hermon Merricks"
+   },
+   {
+      "name": "BU5880 Brand Theory & Strategy",
+      "id": 17312,
+      "major": "�Marketing",
+      "teacher": "Lydie Foster"
+   },
+   {
+      "name": "MA2310 Calculus and Analytic Geometry I",
+      "id": 43855,
+      "major": "Mathematics",
+      "teacher": "Cornela Pelling"
+   },
+   {
+      "name": "MA2320 Calculus and Analytic Geometry II",
+      "id": 43795,
+      "major": "Mathematics",
+      "teacher": "Fayth Fallowfield"
+   },
+   {
+      "name": "MA3030 Discrete Mathematics",
+      "id": 94660,
+      "major": "Mathematics",
+      "teacher": "Gran Solland"
+   },
+   {
+      "name": "MA3160 Linear Algebra",
+      "id": 66479,
+      "major": "Mathematics",
+      "teacher": "Jeff Gaffer"
+   },
+   {
+      "name": "MA3210 Intro. To Probability & Statistics",
+      "id": 62626,
+      "major": "Mathematics",
+      "teacher": "Harmonie Lillie"
+   },
+   {
+      "name": "MA3330 Calculus and Analytic Geometry III",
+      "id": 28834,
+      "major": "Mathematics",
+      "teacher": "Lynnea Petracci"
+   },
+   {
+      "name": "MA3520 Transition to Advanced Mathematics",
+      "id": 72794,
+      "major": "Mathematics",
+      "teacher": "Erie Pollastrino"
+   },
+   {
+      "name": "MA4360 Differential Equations",
+      "id": 64541,
+      "major": "Mathematics",
+      "teacher": "Tad Duchatel"
+   },
+   {
+      "name": "MA5120 Abstract Algebra I",
+      "id": 13416,
+      "major": "Mathematics",
+      "teacher": "Juliane Duffitt"
+   },
+   {
+      "name": "MA5320 Advanced Calculus I",
+      "id": 58569,
+      "major": "Mathematics",
+      "teacher": "Kendricks Crossgrove"
+   },
+   {
+      "name": "CS2510 Computer Programming I",
+      "id": 27540,
+      "major": "Mathematics",
+      "teacher": "Ingmar Pabelik"
+   },
+   {
+      "name": "MA4100 Number Theory",
+      "id": 51192,
+      "major": "Mathematics",
+      "teacher": "Orelia Bleasdale"
+   },
+   {
+      "name": "MA4200 Probability",
+      "id": 68272,
+      "major": "Mathematics",
+      "teacher": "Leontine Diess"
+   },
+   {
+      "name": "MA4510 Geometry",
+      "id": 76939,
+      "major": "Mathematics",
+      "teacher": "Ossie Janeczek"
+   },
+   {
+      "name": "MA4910 Operations Research I",
+      "id": 64048,
+      "major": "Mathematics",
+      "teacher": "Dixie Molohan"
+   },
+   {
+      "name": "MA4920 Operations Research II",
+      "id": 3624,
+      "major": "Mathematics",
+      "teacher": "Dean Barz"
+   },
+   {
+      "name": "MA5230 Mathematical Statistics",
+      "id": 44906,
+      "major": "Mathematics",
+      "teacher": "Isaiah Cockill"
+   },
+   {
+      "name": "MA5380 Complex Analysis",
+      "id": 29124,
+      "major": "Mathematics",
+      "teacher": "Mavis Gillani"
+   },
+   {
+      "name": "MA5510 Topology",
+      "id": 32239,
+      "major": "Mathematics",
+      "teacher": "Kenneth Lampens"
+   },
+   {
+      "name": "CS2511 Computer Programming II",
+      "id": 81493,
+      "major": "Mathematics",
+      "teacher": "Kerri Caunter"
+   },
+   {
+      "name": "CS3810 Data Structures & Algorithms",
+      "id": 89029,
+      "major": "Mathematics",
+      "teacher": "Juditha Denisard"
+   },
+   {
+      "name": "AS2020 New Media CE",
+      "id": 38472,
+      "major": "Media and Communications",
+      "teacher": "Yorker Dykins"
+   },
+   {
+      "name": "AS2652 Media Studies",
+      "id": 43044,
+      "major": "Media and Communications",
+      "teacher": "Morty Doumenc"
+   },
+   {
+      "name": "AS2700 The Engaged Eye",
+      "id": 56938,
+      "major": "Media and Communications",
+      "teacher": "Marybeth Aldine"
+   },
+   {
+      "name": "AS3310 From Citizen to Consumer",
+      "id": 64029,
+      "major": "Media and Communications",
+      "teacher": "Jackqueline Baudino"
+   },
+   {
+      "name": "AS3632 History of U.S. Film",
+      "id": 71687,
+      "major": "Media and Communications",
+      "teacher": "Cathrine Smales"
+   },
+   {
+      "name": "AS3712 American Film Genres",
+      "id": 8525,
+      "major": "Media and Communications",
+      "teacher": "Juliane Petruskevich"
+   },
+   {
+      "name": "AS3722 History of Mass Media",
+      "id": 71726,
+      "major": "Media and Communications",
+      "teacher": "Jacobo Ragbourn"
+   },
+   {
+      "name": "AS3732 Politics of Media",
+      "id": 47440,
+      "major": "Media and Communications",
+      "teacher": "Carina Beilby"
+   },
+   {
+      "name": "AS3735 Documentary Media Studies",
+      "id": 29891,
+      "major": "Media and Communications",
+      "teacher": "Leora Devanney"
+   },
+   {
+      "name": "AS3742 Myths and Images in Film",
+      "id": 97835,
+      "major": "Media and Communications",
+      "teacher": "Georgie Merill"
+   },
+   {
+      "name": "AS3745 Feminine and Masculine in Film",
+      "id": 85061,
+      "major": "Media and Communications",
+      "teacher": "Rosetta Ostick"
+   },
+   {
+      "name": "AS3810 Music and Media",
+      "id": 4877,
+      "major": "Media and Communications",
+      "teacher": "Tremain Robatham"
+   },
+   {
+      "name": "AS3830 Public Relations and Society",
+      "id": 95933,
+      "major": "Media and Communications",
+      "teacher": "Henrie Cope"
+   },
+   {
+      "name": "AS3842 African-Americans and the Mass Media",
+      "id": 72397,
+      "major": "Media and Communications",
+      "teacher": "Kathrine Crayton"
+   },
+   {
+      "name": "AS3852 Women and the Media",
+      "id": 9993,
+      "major": "Media and Communications",
+      "teacher": "Devonne Howling"
+   },
+   {
+      "name": "AS4160 Special Topics in Media Studies",
+      "id": 54327,
+      "major": "Media and Communications",
+      "teacher": "Ianthe Northedge"
+   },
+   {
+      "name": "AS4280 Global Media",
+      "id": 65542,
+      "major": "Media and Communications",
+      "teacher": "Wynne Cutford"
+   },
+   {
+      "name": "AS4722 Film: Ideas and Aesthetics",
+      "id": 47208,
+      "major": "Media and Communications",
+      "teacher": "Meridith Seals"
+   },
+   {
+      "name": "AS4725 The Photograph and American Culture",
+      "id": 24300,
+      "major": "Media and Communications",
+      "teacher": "Vidovic McKilroe"
+   },
+   {
+      "name": "AS4732 Political Film",
+      "id": 13762,
+      "major": "Media and Communications",
+      "teacher": "Bron Radoux"
+   },
+   {
+      "name": "AS4850 Digital Revolution",
+      "id": 99212,
+      "major": "Media and Communications",
+      "teacher": "Michele Gregoretti"
+   },
+   {
+      "name": "SY4651 Sociology of Communications and Media",
+      "id": 20578,
+      "major": "Media and Communications",
+      "teacher": "Micaela Larver"
+   },
+   {
+      "name": "HI1010 World Religions: West",
+      "id": 46149,
+      "major": "Philosophy and Religion",
+      "teacher": "Lilyan Hessenthaler"
+   },
+   {
+      "name": "HI1020 World Religions: East",
+      "id": 97149,
+      "major": "Philosophy and Religion",
+      "teacher": "Antin Golder"
+   },
+   {
+      "name": "HI2720 Introduction to Philosophy",
+      "id": 19610,
+      "major": "Philosophy and Religion",
+      "teacher": "Milo Villar"
+   },
+   {
+      "name": "HI2155 Introduction to Comparative Religion",
+      "id": 263,
+      "major": "Philosophy and Religion",
+      "teacher": "Winny Warrier"
+   },
+   {
+      "name": "HI2700 Introduction to Logic",
+      "id": 79544,
+      "major": "Philosophy and Religion",
+      "teacher": "Cassandra De Simone"
+   },
+   {
+      "name": "HI3011 Foundations of Judeo-Christian Tradition",
+      "id": 88994,
+      "major": "Philosophy and Religion",
+      "teacher": "Annalee Gilhool"
+   },
+   {
+      "name": "HI3080 Asian Cultures",
+      "id": 70172,
+      "major": "Philosophy and Religion",
+      "teacher": "Brian Wyndham"
+   },
+   {
+      "name": "HI3091 African Cultures",
+      "id": 73862,
+      "major": "Philosophy and Religion",
+      "teacher": "Frank Kerslake"
+   },
+   {
+      "name": "HI3835 Islamic Cultures",
+      "id": 80314,
+      "major": "Philosophy and Religion",
+      "teacher": "Lonna Unitt"
+   },
+   {
+      "name": "HI3840 Crescent and Cross",
+      "id": 48517,
+      "major": "Philosophy and Religion",
+      "teacher": "Perren Swarbrick"
+   },
+   {
+      "name": "HI4905 Chinese Civilization",
+      "id": 61465,
+      "major": "Philosophy and Religion",
+      "teacher": "Katerina Gillford"
+   },
+   {
+      "name": "HI3323 Buddhism",
+      "id": 1950,
+      "major": "Philosophy and Religion",
+      "teacher": "Doris Lewty"
+   },
+   {
+      "name": "HI3525 Ancient Greek Philosophy",
+      "id": 4105,
+      "major": "Philosophy and Religion",
+      "teacher": "Violette Shoesmith"
+   },
+   {
+      "name": "HI3703 Modern Philosophy",
+      "id": 27052,
+      "major": "Philosophy and Religion",
+      "teacher": "Cointon Cecere"
+   },
+   {
+      "name": "HI3704 African Religions and Philosophy",
+      "id": 71391,
+      "major": "Philosophy and Religion",
+      "teacher": "Gerti Weitzel"
+   },
+   {
+      "name": "HI3710 Contemporary Philosophical Issues",
+      "id": 42380,
+      "major": "Philosophy and Religion",
+      "teacher": "Erminia Flecknoe"
+   },
+   {
+      "name": "HI3950 Philosophy of Religion",
+      "id": 99930,
+      "major": "Philosophy and Religion",
+      "teacher": "Berri Haslin"
+   },
+   {
+      "name": "HI4051 Logic and Scientific Reasoning",
+      "id": 52183,
+      "major": "Philosophy and Religion",
+      "teacher": "Kelvin Beneze"
+   },
+   {
+      "name": "HI4318 Islamic Philosophy and Mysticism",
+      "id": 69981,
+      "major": "Philosophy and Religion",
+      "teacher": "Vincenz Verrico"
+   },
+   {
+      "name": "HI4395 20th & 21st Century Philosophy",
+      "id": 79518,
+      "major": "Philosophy and Religion",
+      "teacher": "Matt Valerius"
+   },
+   {
+      "name": "PE4620 Political Thought",
+      "id": 49355,
+      "major": "Philosophy and Religion",
+      "teacher": "Jessey Chapell"
+   },
+   {
+      "name": "PE4665 Human Rights",
+      "id": 11256,
+      "major": "Philosophy and Religion",
+      "teacher": "Myrta Josh"
+   },
+   {
+      "name": "PE4658 Law and Civil Liberties",
+      "id": 58030,
+      "major": "Philosophy and Religion",
+      "teacher": "Adolphe Padbury"
+   },
+   {
+      "name": "PE4659 Law and Civil Rights",
+      "id": 13282,
+      "major": "Philosophy and Religion",
+      "teacher": "Bron Strase"
+   },
+   {
+      "name": "HI3040 Analysis of Cultures",
+      "id": 92371,
+      "major": "Philosophy and Religion",
+      "teacher": "Paulita Tzar"
+   },
+   {
+      "name": "PE2300 Introduction to Law",
+      "id": 48524,
+      "major": "Politics & Economics & Law",
+      "teacher": "Jessey Paty"
+   },
+   {
+      "name": "PE2650 Introduction to U.S. Politics",
+      "id": 36076,
+      "major": "Politics & Economics & Law",
+      "teacher": "Isador Trevains"
+   },
+   {
+      "name": "IR2210 Unions and Management: An Introduction",
+      "id": 36058,
+      "major": "Politics & Economics & Law",
+      "teacher": "Nigel Baldazzi"
+   },
+   {
+      "name": "PE2220 Introduction to Urban Issues",
+      "id": 11745,
+      "major": "Politics & Economics & Law",
+      "teacher": "Fidelia Bonwell"
+   },
+   {
+      "name": "PE2400 Introduction to Political Economy",
+      "id": 58810,
+      "major": "Politics & Economics & Law",
+      "teacher": "Antonin Little"
+   },
+   {
+      "name": "PE3100 International Relations",
+      "id": 15109,
+      "major": "Politics & Economics & Law",
+      "teacher": "Zsa zsa Millwater"
+   },
+   {
+      "name": "PE4320 Jurisprudence: Legal Thought",
+      "id": 43851,
+      "major": "Politics & Economics & Law",
+      "teacher": "Stafford Grogona"
+   },
+   {
+      "name": "PE4470 History of Economic Thought",
+      "id": 42439,
+      "major": "Politics & Economics & Law",
+      "teacher": "Clarabelle Kid"
+   },
+   {
+      "name": "PE4620 Political and Social Thought",
+      "id": 59918,
+      "major": "Politics & Economics & Law",
+      "teacher": "Angeli Hordell"
+   },
+   {
+      "name": "PE4580 Origins of the Capitalist Economy",
+      "id": 24528,
+      "major": "Politics & Economics & Law",
+      "teacher": "Gregorio Ryott"
+   },
+   {
+      "name": "PE4590 Global Economy in the 20th Century",
+      "id": 19711,
+      "major": "Politics & Economics & Law",
+      "teacher": "Cleavland Carwithim"
+   },
+   {
+      "name": "PY2010 Introduction to Psychology",
+      "id": 293,
+      "major": "Psychology",
+      "teacher": "Piggy Dumbrall"
+   },
+   {
+      "name": "PY3110 Research Methods I: (Orientation)",
+      "id": 45992,
+      "major": "Psychology",
+      "teacher": "Gerardo Tonbye"
+   },
+   {
+      "name": "PY3120 Research Methods II: (Statistics)",
+      "id": 97498,
+      "major": "Psychology",
+      "teacher": "Randie Coling"
+   },
+   {
+      "name": "PY4100 Research Methods III (Advanced Research Skills)",
+      "id": 98696,
+      "major": "Psychology",
+      "teacher": "Binni Culleford"
+   },
+   {
+      "name": "PY4130 Field Experience and Research",
+      "id": 93287,
+      "major": "Psychology",
+      "teacher": "Willamina Pigot"
+   },
+   {
+      "name": "PY3410 Cognitive Psychology",
+      "id": 70289,
+      "major": "Psychology",
+      "teacher": "Vasili Mockett"
+   },
+   {
+      "name": "PY3420 Learning & Motivation",
+      "id": 1582,
+      "major": "Psychology",
+      "teacher": "Hamilton Donwell"
+   },
+   {
+      "name": "PY3610 Brain & Behavior",
+      "id": 61445,
+      "major": "Psychology",
+      "teacher": "Joby Passey"
+   },
+   {
+      "name": "PY3620 Drugs & Behavior",
+      "id": 61782,
+      "major": "Psychology",
+      "teacher": "Gretta Guisler"
+   },
+   {
+      "name": "PY3215 Foundations of Child Development",
+      "id": 47976,
+      "major": "Psychology",
+      "teacher": "Benjamin Rioch"
+   },
+   {
+      "name": "PY3310 Abnormal Human Behavior",
+      "id": 694,
+      "major": "Psychology",
+      "teacher": "Catharina Readwin"
+   },
+   {
+      "name": "PY3311 Theories of Personality",
+      "id": 91367,
+      "major": "Psychology",
+      "teacher": "Chickie Guillart"
+   },
+   {
+      "name": "PY3510 Social Psychology",
+      "id": 22701,
+      "major": "Psychology",
+      "teacher": "Georgie Plak"
+   },
+   {
+      "name": "PY2340 Community Psychology",
+      "id": 63283,
+      "major": "Psychology",
+      "teacher": "Leslie Damrel"
+   },
+   {
+      "name": "PY2530 Psychology of Prejudice",
+      "id": 74140,
+      "major": "Psychology",
+      "teacher": "Rosaline O'Bradden"
+   },
+   {
+      "name": "PY2720 Psychology of Gender",
+      "id": 37412,
+      "major": "Psychology",
+      "teacher": "Nikolia Beverage"
+   },
+   {
+      "name": "PY3710 Psychology & Social Justice",
+      "id": 7219,
+      "major": "Psychology",
+      "teacher": "Halette Rens"
+   },
+   {
+      "name": "ML2100 Intermediate Spanish Conversation I",
+      "id": 70045,
+      "major": "Spanish Language",
+      "teacher": "Catie Ibell"
+   },
+   {
+      "name": "ML2110 Intermediate Spanish Conversation II OR ML2500 Spanish Language and Culture",
+      "id": 71316,
+      "major": "Spanish Language",
+      "teacher": "Collen Dunlop"
+   },
+   {
+      "name": "ML3100 Advanced Spanish Conversation and Composition",
+      "id": 86233,
+      "major": "Spanish Language",
+      "teacher": "Rafaela Guyot"
+   },
+   {
+      "name": "ML3362 Advanced Spanish Grammar and Composition",
+      "id": 79120,
+      "major": "Spanish Language",
+      "teacher": "Uta Este"
+   },
+   {
+      "name": "ML3200 Translation Workshop",
+      "id": 5464,
+      "major": "Spanish Language",
+      "teacher": "Gerek Ismead"
+   },
+   {
+      "name": "ML3250 Spanish Linguistics",
+      "id": 5579,
+      "major": "Spanish Language",
+      "teacher": "Debera Wippermann"
+   },
+   {
+      "name": "ML3260 Spanish Linguistics: Universals of Grammar",
+      "id": 91492,
+      "major": "Spanish Language",
+      "teacher": "Kathie Palfreman"
+   },
+   {
+      "name": "ML3500 Critical Writing and Textual Analysis",
+      "id": 70766,
+      "major": "Spanish Language",
+      "teacher": "Nealon Kerner"
+   },
+   {
+      "name": "ML4100 The Spanish Golden Age",
+      "id": 2279,
+      "major": "Spanish Language",
+      "teacher": "Waite Crossley"
+   },
+   {
+      "name": "ML4500 Culture and Literature of Spain from the Middle Ages to the 18th century",
+      "id": 19620,
+      "major": "Spanish Language",
+      "teacher": "Greg Desvignes"
+   },
+   {
+      "name": "ML4510 Civilization and Culture of Spain",
+      "id": 14669,
+      "major": "Spanish Language",
+      "teacher": "Johannah Francesch"
+   },
+   {
+      "name": "ML3300 Artistic Expressions of Spain",
+      "id": 76673,
+      "major": "Spanish Language",
+      "teacher": "Shannan Sitch"
+   },
+   {
+      "name": "ML3310 Topics in Hispanic Cultural Studies",
+      "id": 84389,
+      "major": "Spanish Language",
+      "teacher": "Drusie Breston"
+   },
+   {
+      "name": "ML3410 Latino/a Writers in the US",
+      "id": 79846,
+      "major": "Spanish Language",
+      "teacher": "Griff Ivie"
+   },
+   {
+      "name": "ML3650 Latin American Cinema",
+      "id": 81347,
+      "major": "Spanish Language",
+      "teacher": "Kim Tyre"
+   },
+   {
+      "name": "ML3880 Masterpieces of Hispanic Literature",
+      "id": 4715,
+      "major": "Spanish Language",
+      "teacher": "Tish Mansford"
+   },
+   {
+      "name": "ML4325 Contemporary Theatre of the Hispanic World",
+      "id": 44974,
+      "major": "Spanish Language",
+      "teacher": "Channa Chinnery"
+   },
+   {
+      "name": "ML4350 Recurrent Themes in Latin American Painting and Literature",
+      "id": 82415,
+      "major": "Spanish Language",
+      "teacher": "Adham Fishley"
+   },
+   {
+      "name": "ML4450 Hispanic Women Writers",
+      "id": 53437,
+      "major": "Spanish Language",
+      "teacher": "Zorah Douce"
+   },
+   {
+      "name": "ML4515 Recent Narrative from Spain",
+      "id": 73670,
+      "major": "Spanish Language",
+      "teacher": "Martelle Enterlein"
+   },
+   {
+      "name": "ML4520 Culture and Literature of the Spanish Caribbean",
+      "id": 94524,
+      "major": "Spanish Language",
+      "teacher": "Melitta Egdal"
+   },
+   {
+      "name": "ML/EL4630 Latin American Literature",
+      "id": 70835,
+      "major": "Spanish Language",
+      "teacher": "Dexter Cashford"
+   },
+   {
+      "name": "ML4700 Studies in Spanish Literature of the Nineteenth and Twentieth Centuries",
+      "id": 51519,
+      "major": "Spanish Language",
+      "teacher": "Jacquette Wolfit"
+   },
+   {
+      "name": "ML4725 The Novel and the City",
+      "id": 14741,
+      "major": "Spanish Language",
+      "teacher": "Alaine Challen"
+   },
+   {
+      "name": "ML4750 Fiction into Film: the Spanish and Latin American Cinema",
+      "id": 96426,
+      "major": "Spanish Language",
+      "teacher": "Cal Ife"
+   },
+   {
+      "name": "ML5400 Contemporary Literary Theory and its Applications",
+      "id": 74984,
+      "major": "Spanish Language",
+      "teacher": "Van Braidwood"
+   },
+   {
+      "name": "ED3700 Child Development",
+      "id": 78472,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Cad Eveque"
+   },
+   {
+      "name": "ED4121 Methods and Materials for Teaching Elementary Science Majors",
+      "id": 59703,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Wendi Leates"
+   },
+   {
+      "name": "ED4122 Methods and Materials for Teaching Elementary Math Methods",
+      "id": 33739,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Maddalena Doud"
+   },
+   {
+      "name": "ED4850 Instructional Design & Delivery for Students with Disabilities",
+      "id": 75018,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Charmion Shurman"
+   },
+   {
+      "name": "ED4300 Assessment and Evidence-based Decision Making in Special Education",
+      "id": 6776,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Babbie Fryers"
+   },
+   {
+      "name": "ED4810 Positive Behavior Supports and Interventions for Students with Disabilities",
+      "id": 84123,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Saudra Densey"
+   },
+   {
+      "name": "ED4890 Effective Practices for Students with Low Incidence Disabilities",
+      "id": 19557,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Georgeanna Chittem"
+   },
+   {
+      "name": "ED5930 Internship: Meeting the Needs of Diverse Learners",
+      "id": 26336,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Regine Collett"
+   },
+   {
+      "name": "ED5960 Student Teaching and Seminar",
+      "id": 81317,
+      "major": "Special Education and Childhood Education (1-6)",
+      "teacher": "Augustine Coopey"
+   },
+   {
+      "name": "SY2400 Sociology Through the Arts",
+      "id": 19529,
+      "major": "Sociology",
+      "teacher": "Elijah Siggin"
+   },
+   {
+      "name": "SY2550 Social Problems",
+      "id": 67543,
+      "major": "Sociology",
+      "teacher": "Adriane Maginn"
+   },
+   {
+      "name": "SY2600 Social Deviance",
+      "id": 49479,
+      "major": "Sociology",
+      "teacher": "Jillayne Ivanusyev"
+   },
+   {
+      "name": "SY2800 Race",
+      "id": 72138,
+      "major": "Sociology",
+      "teacher": "Pansie Roelvink"
+   },
+   {
+      "name": "SY3160 Sociology of Culture",
+      "id": 38645,
+      "major": "Sociology",
+      "teacher": "Elsa Hansen"
+   },
+   {
+      "name": "SY3280 Social Inequality",
+      "id": 7335,
+      "major": "Sociology",
+      "teacher": "Harold Klus"
+   },
+   {
+      "name": "SY3630 Political Sociology",
+      "id": 76971,
+      "major": "Sociology",
+      "teacher": "Eliot Yitzovicz"
+   },
+   {
+      "name": "SY3700 Family and Society",
+      "id": 60031,
+      "major": "Sociology",
+      "teacher": "Francisco Waight"
+   },
+   {
+      "name": "SY3750 Medical Sociology",
+      "id": 50223,
+      "major": "Sociology",
+      "teacher": "Vernon Cardoso"
+   },
+   {
+      "name": "SY3800 Race and Ethnicity",
+      "id": 46373,
+      "major": "Sociology",
+      "teacher": "Jerrold Fagg"
+   },
+   {
+      "name": "SY3900 Social Movements",
+      "id": 49286,
+      "major": "Sociology",
+      "teacher": "Eada Blamphin"
+   },
+   {
+      "name": "SY3910 Sociology of Work",
+      "id": 71609,
+      "major": "Sociology",
+      "teacher": "Misty Colliver"
+   },
+   {
+      "name": "SY4260 Social Work: Theory and Practice",
+      "id": 59698,
+      "major": "Sociology",
+      "teacher": "Griffith Kestle"
+   },
+   {
+      "name": "SY4270 Internship in Social Work",
+      "id": 6906,
+      "major": "Sociology",
+      "teacher": "Carina Bon"
+   },
+   {
+      "name": "Sociology and Criminology",
+      "id": 73788,
+      "major": "Sociology",
+      "teacher": "Helaine Brombell"
+   },
+   {
+      "name": "SY4400 Social Psychology",
+      "id": 75908,
+      "major": "Sociology",
+      "teacher": "Dirk Shwalbe"
+   },
+   {
+      "name": "SY4500 Global Sociology",
+      "id": 34367,
+      "major": "Sociology",
+      "teacher": "Golda Battaille"
+   },
+   {
+      "name": "SY4600 Social Programs",
+      "id": 55140,
+      "major": "Sociology",
+      "teacher": "Carolan Stileman"
+   },
+   {
+      "name": "SY4810 Law and Justice",
+      "id": 52541,
+      "major": "Sociology",
+      "teacher": "Shannon Nezey"
+   },
+   {
+      "name": "SY4830 Gender and Society",
+      "id": 23139,
+      "major": "Sociology",
+      "teacher": "Minnie Leacock"
+   },
+   {
+      "name": "SY4850 Urban and Suburban Sociology",
+      "id": 26771,
+      "major": "Sociology",
+      "teacher": "Arley Justis"
+   },
+   {
+      "name": "SY4950 Sociology of Music",
+      "id": 57516,
+      "major": "Sociology",
+      "teacher": "Teri Cay"
+   },
+   {
+      "name": "SY4999 Issues in Sociology",
+      "id": 90854,
+      "major": "Sociology",
+      "teacher": "Halsey Boylin"
+   },
+   {
+      "name": "CR2090 Juvenile Delinquency",
+      "id": 94768,
+      "major": "Sociology",
+      "teacher": "Sybyl MacWilliam"
+   },
+   {
+      "name": "CR3092 Victimology",
+      "id": 27384,
+      "major": "Sociology",
+      "teacher": "Lorrie Izsak"
+   },
+   {
+      "name": "CR3093 Criminal Justice Administration",
+      "id": 90409,
+      "major": "Sociology",
+      "teacher": "Mose Bryceson"
+   },
+   {
+      "name": "CR3094 Drugs and Society",
+      "id": 54531,
+      "major": "Sociology",
+      "teacher": "Laurice Brunner"
+   },
+   {
+      "name": "VA2010 Intro. to Creative Thinking",
+      "id": 31894,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Clemmy Varsey"
+   },
+   {
+      "name": "VA2020 Basic Design",
+      "id": 36108,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Tuckie McNaught"
+   },
+   {
+      "name": "VA2030 Drawing",
+      "id": 78154,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Yvonne Drewry"
+   },
+   {
+      "name": "VA2045 Introduction to Color",
+      "id": 93217,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Heloise Glasspoole"
+   },
+   {
+      "name": "VA2500 Art History I: 19th Century Art",
+      "id": 42949,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Jilly Jouannot"
+   },
+   {
+      "name": "VA3100 Visual Culture",
+      "id": 57295,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Bernadine Bloss"
+   },
+   {
+      "name": "VA3200 Art Tutorials I",
+      "id": 77566,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Tarra Farlane"
+   },
+   {
+      "name": "VA3400 Digital Imaging",
+      "id": 57512,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Adolphe Ismail"
+   },
+   {
+      "name": "VA4200 Art Tutorials II",
+      "id": 8329,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Hillier Agg"
+   },
+   {
+      "name": "VA5200 Art Tutorials III",
+      "id": 9885,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Griffie MacVay"
+   },
+   {
+      "name": "VA4900 Internship",
+      "id": 22956,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Kirbee Timms"
+   },
+   {
+      "name": "VA2320 Graphic Design I",
+      "id": 39414,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Astrix Jouandet"
+   },
+   {
+      "name": "VA3380 Digital Video 4",
+      "id": 49003,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Felipa Hanway"
+   },
+   {
+      "name": "VA4260 Interactive Web Design",
+      "id": 48882,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Kissiah Simko"
+   },
+   {
+      "name": "VA4320 Graphic Design II",
+      "id": 9540,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Trumaine Willock"
+   },
+   {
+      "name": "VA4460 Digital Animation",
+      "id": 54597,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Meredeth Gress"
+   },
+   {
+      "name": "VA4265 3D Digital Desig",
+      "id": 53999,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Donica Fries"
+   },
+   {
+      "name": "VA4360 Advanced Electronic and Animation",
+      "id": 27381,
+      "major": "Visual Arts: Electronic Media",
+      "teacher": "Reena Worsnop"
+   }
+]
